@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h2>This is about page</h2>
-	<a href="hello.jsp">Hello</a>
+	<a href="hello.jsp">About the Project</a>
 </body>
 </html>

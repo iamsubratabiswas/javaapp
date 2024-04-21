@@ -7,6 +7,6 @@
 <title>Hello</title>
 </head>
 <body>
-	<h2>Hello World! form java web app</h2>
+	<h2>This project is to auto build and deploy to server using jenkins on pushing over github</h2>
 </body>
 </html>
